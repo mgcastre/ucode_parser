@@ -5,6 +5,7 @@ A python script to run the UCODE sensitivity analysis tool and write the model.i
 The run.py provides an example runner.
 Parameters can be modified in the UCODE_parser.
 
-# Contributor
+## Contributors
 Robert Reinecke
+
 Alexander Wachholz
